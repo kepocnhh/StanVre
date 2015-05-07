@@ -151,3 +151,14 @@ $RECYCLE.BIN/
 
 # Mac crap
 .DS_Store
+
+
+
+
+
+
+
+#
+*.sln
+*.csproj
+Properties/
